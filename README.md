@@ -12,4 +12,4 @@ For this capstone project I explored some 911 call data from Kaggle. The data co
   - addr: String variable, Address<br />
   - e: String variable, Dummy variable (always 1)<br />
   
-I tried to explore the data using my Python and Data Science skills!
+I tried to explore the data using my Python and Data Science skills! Here are libraries I used : Pandas, Matplotlib and Seaborn.
