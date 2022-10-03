@@ -1,15 +1,15 @@
 ### Analyzing-911-Calls
 
-For this capstone project I explored some 911 call data from Kaggle. The data contains the following fields:
+For this capstone project I explored some 911 call data from Kaggle. The data contains the following fields:<br />
 
-  lat : String variable, Latitude
-  lng: String variable, Longitude
-  desc: String variable, Description of the Emergency Call
-  zip: String variable, Zipcode
-  title: String variable, Title
-  timeStamp: String variable, YYYY-MM-DD HH:MM:SS
-  twp: String variable, Township
-  addr: String variable, Address
-  e: String variable, Dummy variable (always 1)
+  lat : String variable, Latitude<br />
+  lng: String variable, Longitude<br />
+  desc: String variable, Description of the Emergency Call<br />
+  zip: String variable, Zipcode<br />
+  title: String variable, Title<br />
+  timeStamp: String variable, YYYY-MM-DD HH:MM:SS<br />
+  twp: String variable, Township<br />
+  addr: String variable, Address<br />
+  e: String variable, Dummy variable (always 1)<br />
   
 I will try to explore the data using my Python and Data Science skills!
